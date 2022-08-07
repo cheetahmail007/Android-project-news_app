@@ -1,6 +1,5 @@
 # 🔥Android News App🔥  
 
-[![Abhishek LinkedIn](https://img.shields.io/badge/Abhishek-LinkedIn-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/abhi5h3k/) [![Abhishek StackOverflow](https://img.shields.io/badge/Abhishek-StackOverflow-orange.svg?style=for-the-badge)](https://stackoverflow.com/users/6870223/abhi?tab=profile)
 
 ![news app](https://media.giphy.com/media/STZuwscysQ2zBKSJjz/source.gif)
 
@@ -36,8 +35,8 @@ Working [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.ht
  
 ## Authors
 
-* **Abhishek Bhardwaj** - *Stackoverflow profile* - [Stackoverflow profile](https://stackoverflow.com/users/6870223/abhi?tab=profile)
-			  *Linkedin profile* - [Linkedin profile](https://www.linkedin.com/in/abhishek-bhardwaj-b16764166)
+* **Abhishek Pathak** -
+ *Linkedin profile* - [Linkedin profile](https://www.linkedin.com/in/myofficework/)
  	
 
 
